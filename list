@@ -2,7 +2,7 @@
 
 #EXTINF:-1, [COLOR green][B] »» by: IPTV SERVICE BASIC «« [/B][/COLOR]
 
-#EXTINF:-1, [COLOR RED][B] »» SUBSCRIÇÃO MENSAL 5EUROS «« [/B][/COLOR]
+#EXTINF:-1, [COLOR RED][B] »» SUBSCRIÇÃO ATÉ 30/11/2016 «« [/B][/COLOR]
 
 #EXTINF:-1 tvg-id="RTP1",RTP1
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/68.m3u8
