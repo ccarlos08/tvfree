@@ -5,7 +5,7 @@
 #EXTINF:-1, [COLOR RED][B] »» UPDATE 31/10 «« [/B][/COLOR]
 
 #EXTINF:-1 tvg-id="SPORTV 1 HD",SPORTV 1 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/15.ts
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/14.ts
 
 #EXTINF:-1 tvg-id="SPORTV 2 HD",SPORTV 2 HD
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/17.ts
@@ -17,7 +17,7 @@ http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/18.ts
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/19.ts
 
 #EXTINF:-1 tvg-id="SPORTV 5 HD",SPORTV 5 HD
-http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/20.ts
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/21.ts
 
 #EXTINF:-1 tvg-id="SPORTV AMERICAS",SPORTV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
@@ -25,14 +25,8 @@ http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
 #EXTINF:-1 tvg-id="SPORTV AMERICAS HD",SPORTV AMERICAS HD
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
-#EXTINF:-1 tvg-id="BENFICA 1",BENFICA TV 1
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/12.m3u8
-
 #EXTINF:-1 tvg-id="BENFICA 1HD",BENFICA TV 1 HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/14.m3u8
-
-#EXTINF:-1 tvg-id="BENFICA 2",BENFICA TV 2
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/13.m3u8
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/22.ts
 
 #EXTINF:-1 tvg-id="BENFICA 2HD",BENFICA TV 2 HD
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/15.m3u8
@@ -58,35 +52,11 @@ http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/100.m3u8
 #EXTINF:-1 tvg-id="TVC4",TVC4
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/102.m3u8
 
-#EXTINF:-1 tvg-id="FOX HD",FOX HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/40.m3u8
-
-#EXTINF:-1 tvg-id="FOX LIFE HD",FOX LIFE HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/41.m3u8
-
-#EXTINF:-1 tvg-id="HOLLYWOOD HD",HOLLYWOOD HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/47.m3u8
-
-#EXTINF:-1 tvg-id="AXN BLACK HD",AXN BLACK HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/07.m3u8
-
-#EXTINF:-1 tvg-id="AXN HD",AXN HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/08.m3u8
-
-#EXTINF:-1 tvg-id="AXN WHITE HD",AXN WHITE HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/09.m3u8
-
-#EXTINF:-1 tvg-id="MOV HD",MOV HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/55.m3u8
-
 #EXTINF:-1 tvg-id="PFC",PFC
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/63.m3u8
 
-#EXTINF:-1 tvg-id="TVI REALITY MULTI",TVI REALITY MULTI
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/106.m3u8
-
 #EXTINF:-1 tvg-id="TVI REALITY",TVI REALITY
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/107.m3u8
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/83.ts
 
 #EXTINF:-1 tvg-id="PLAYBOY",PLAYBOY
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/64.m3u8
