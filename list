@@ -4,11 +4,8 @@
 
 #EXTINF:-1, [COLOR RED][B] »» UPDATE 31/10 «« [/B][/COLOR]
 
-#EXTINF:-1 tvg-id="SPORTV 1",SPORTV 1
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/84.m3u8
-
 #EXTINF:-1 tvg-id="SPORTV 1 HD",SPORTV 1 HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/83.m3u8
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/15.ts
 
 #EXTINF:-1 tvg-id="SPORTV 2 HD",SPORTV 2 HD
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/17.ts
@@ -16,17 +13,11 @@ http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/17.ts
 #EXTINF:-1 tvg-id="SPORTV 3 HD",SPORTV 3 HD
 http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/18.ts
 
-#EXTINF:-1 tvg-id="SPORTV 4",SPORTV 4
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/90.m3u8
-
 #EXTINF:-1 tvg-id="SPORTV 4 HD",SPORTV 4 HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/89.m3u8
-
-#EXTINF:-1 tvg-id="SPORTV 5",SPORTV 5
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/92.m3u8
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/19.ts
 
 #EXTINF:-1 tvg-id="SPORTV 5 HD",SPORTV 5 HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/91.m3u8
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/20.ts
 
 #EXTINF:-1 tvg-id="SPORTV AMERICAS",SPORTV AMERICAS
 http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/master.m3u8
