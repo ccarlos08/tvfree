@@ -2,26 +2,7 @@
 
 #EXTINF:-1, [COLOR green][B] »» by: IPTV SERVICE BASIC «« [/B][/COLOR]
 
-#EXTINF:-1, [COLOR RED][B] »» SUBSCRIÇÃO ATÉ 30/11/2016 «« [/B][/COLOR]
-
-#EXTINF:-1 tvg-id="RTP1",RTP1
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/68.m3u8
-
-#EXTINF:-1 tvg-id="RTP2",RTP2
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/69.m3u8
-
-#EXTINF:-1 tvg-id="RTP3",RTP3
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/74.m3u8
-
-
-#EXTINF:-1 tvg-id="SIC NOTICIAS",SIC NOTICIAS
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/78.m3u8
-
-#EXTINF:-1 tvg-id="SIC",SIC
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/80.m3u8
-
-#EXTINF:-1 tvg-id="TVI",TVI
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/109.m3u8
+#EXTINF:-1, [COLOR RED][B] »» UPDATE 31/10 «« [/B][/COLOR]
 
 #EXTINF:-1 tvg-id="SPORTV 1",SPORTV 1
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/84.m3u8
@@ -29,17 +10,11 @@ http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/84.m3u8
 #EXTINF:-1 tvg-id="SPORTV 1 HD",SPORTV 1 HD
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/83.m3u8
 
-#EXTINF:-1 tvg-id="SPORTV 2",SPORTV 2
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/86.m3u8
-
 #EXTINF:-1 tvg-id="SPORTV 2 HD",SPORTV 2 HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/85.m3u8
-
-#EXTINF:-1 tvg-id="SPORTV 3",SPORTV 3
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/88.m3u8
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/17.ts
 
 #EXTINF:-1 tvg-id="SPORTV 3 HD",SPORTV 3 HD
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/87.m3u8
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/18.ts
 
 #EXTINF:-1 tvg-id="SPORTV 4",SPORTV 4
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/90.m3u8
@@ -74,8 +49,8 @@ http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/15.m3u8
 #EXTINF:-1 tvg-id="SPORTING HD",SPORTING HD
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/81.m3u8
 
-#EXTINF:-1 tvg-id="PORTO CANAL",PORTO CANAL
-http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/65.m3u8
+#EXTINF:-1 tvg-id="PREMIERE",PREMIERE
+http://kodi.iptvtuga.com:2000/live/filpegoncalves/tyyooperetrt/82.ts
 
 #EXTINF:-1 tvg-id="TVC SERIES",TVC SERIES
 http://iptvportugal.selfip.com:8000/live/lisandro/nobrega/98.m3u8
